@@ -20,7 +20,8 @@
 
 ---
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif">
-### 💁 About Me :
+
+ <h4 align="left">💁About Me:</h4>
 
 - 📝 Committed to continuous learning and practice of software development.
 
