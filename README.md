@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="200" alt="presentation">
+    <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" height="300" width="900" alt="presentation">
     <h1 align="center">Hi, I'm Héctor Guzmán <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"" alt="greeting"></h1>
     <h3 align="center">
         As a trainee Full-Stack developer, I am excited to learn, grow, and contribute to creating meaningful software development experiences.
@@ -19,7 +19,7 @@
 </div>
 
 ---
-
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif">
 ### 💁 About Me :
 
 - 📝 Committed to continuous learning and practice of software development.
@@ -53,9 +53,9 @@
     <h2>⚡Stats⚡</h2>
     <br>
     <img width="410" src="http://github-readme-streak-stats.herokuapp.com?user=aremilguzman&theme=react&border_radius=10" alt="streak stats">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=aremilguzman&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=aremilguzman&show_icons=true&locale=en&theme=react&border_radius=10" alt="aremilguzman">
     <br>
-    <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aremilguzman&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="readme stats">
+    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=aremilguzman&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="aremilguzman">
 </div>
 
 ---
