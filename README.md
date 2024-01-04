@@ -41,28 +41,7 @@
     </div>
 </div>
 
----
-<div align="center">
-    <h2>⚡Stats⚡</h2>
-    <br>
-    <img width="410" src="http://github-readme-streak-stats.herokuapp.com?user=aremilguzman&theme=react&border_radius=10" alt="streak stats">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=aremilguzman&show_icons=true&locale=en&theme=react&border_radius=10" alt="aremilguzman">
-    <br>
-    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=aremilguzman&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="aremilguzman">
-</div>
 
----
-<div align="center">
-<h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aremilguzman/aremilguzman/output/github-contribution-grid-snake-dark.svg" />
-</div>
-  
----
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
 
 <!--
 **aremilguzman/aremilguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
