@@ -2,7 +2,7 @@
     <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" height="300" width="900" alt="presentation">
     <h1 align="center">Hi, I'm Héctor Guzmán <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"" alt="greeting"></h1>
     <h3 align="center">
-        As a trainee Full-Stack developer, I am excited to learn, grow, and contribute to creating meaningful software development experiences.
+        As a Full-Stack software developer, I am excited to learn, grow, and contribute to creating meaningful software development experiences.
     </h3>
 </div>
 
@@ -33,19 +33,11 @@
 
   ---
 
-<div align="left">
-    <h2>👨‍💻Programming languages</h2>
-    <div>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML5">
-    </div>
-</div>
-
----
 
 <div align="left">
-    <h2>🧰Libraries, Frameworks and Tools</h2>
+    <h2>🧰Technologies and Tools</h2>
     <div>
-        <img src="https://skillicons.dev/icons?i=react,mysql,mongodb,nodejs,express,postman,vscode,git,github" alt="HTML5">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,mysql,mongodb,nodejs,express,postman,vscode,git,github" alt="HTML5">
     </div>
 </div>
 
